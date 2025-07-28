@@ -1,0 +1,6 @@
+requests
+curl_cffi
+asyncio
+loguru
+websockets_proxy
+fake_useragent
