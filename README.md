@@ -1,0 +1,2 @@
+# grasslitebot
+grasslitebot getgrass farming
